@@ -38,6 +38,15 @@ deactivate
 ```
     
 ### 패키지 설치
+* 가상환경 실행
+   * windows
+    ```bash
+    . venv/Scripts/activate
+    ```
+    * mac
+    ```zsh
+    . venv/bin/activate
+    ```
 * pip install
 ```bash
 pip install -r requirements.txt 
